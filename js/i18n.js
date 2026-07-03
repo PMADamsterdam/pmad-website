@@ -172,6 +172,16 @@ const PMAD_I18N = {
     "projects.utrechtseweg.metaTitle": "Utrechtseweg 178, Oosterbeek — PM|AD",
     "projects.utrechtseweg.metaDescription": "Alle beelden van Utrechtseweg 178: transformatie van een woning boven een winkelpand in Oosterbeek tot drie appartementen voor 55-plussers, in opdracht van 026Vastgoed.",
 
+    "projects.velperweg.meta": "Nieuwbouw — in ontwikkeling",
+    "projects.velperweg.title": "Velperweg 56b, Arnhem",
+    "projects.velperweg.desc": "Nieuwbouw van een woongebouw aan de Velperweg in Arnhem, in opdracht van 026Vastgoed, direct naast een monumentaal woonblok. Op de plek van een bestaand pand van één bouwlaag verrijst een nieuw volume dat er nooit eerder heeft gestaan, met vijf nieuwe bouwlagen. Iedere laag herbergt een appartement van circa 80 m². Juist omdat het hier om nieuwbouw gaat, is bewust gekozen voor een ingetogen en hedendaags ontwerp dat recht doet aan het monumentale buurpand.",
+    "projects.velperweg.d1": "Vooraanzicht met nieuw bouwvolume (render)",
+    "projects.velperweg.d2": "Luchtperspectief nieuwbouw naast monumentaal pand (render)",
+    "projects.velperweg.d3": "Detail voorgevel (render)",
+    "projects.velperweg.d4": "Balkon met zicht op de woonkamer (render)",
+    "projects.velperweg.metaTitle": "Velperweg 56b, Arnhem — PM|AD",
+    "projects.velperweg.metaDescription": "Alle beelden van Velperweg 56b: nieuwbouw van een woongebouw met vijf appartementen naast een monumentaal pand in Arnhem, in opdracht van 026Vastgoed.",
+
     "projects.p1.title": "Villa Zonnehof",
     "projects.p1.desc": "Vrijstaande woning met een open, licht plattegrond en directe relatie met de tuin.",
     "projects.p2.title": "Kantoor De Werf",
@@ -397,6 +407,16 @@ const PMAD_I18N = {
     "projects.utrechtseweg.d5": "Dining area and kitchen interior (render)",
     "projects.utrechtseweg.metaTitle": "Utrechtseweg 178, Oosterbeek — PM|AD",
     "projects.utrechtseweg.metaDescription": "All images of Utrechtseweg 178: transformation of a residence above a shop in Oosterbeek into three apartments for 55+ residents, commissioned by 026Vastgoed.",
+
+    "projects.velperweg.meta": "New build — in development",
+    "projects.velperweg.title": "Velperweg 56b, Arnhem",
+    "projects.velperweg.desc": "New residential building on the Velperweg in Arnhem, commissioned by 026Vastgoed, directly next to a listed heritage residential block. On the site of an existing single-storey building rises a new volume that never stood there before, with five new floors. Each floor holds one apartment of roughly 80 m². Precisely because this is new construction, the design deliberately aims for a restrained, contemporary approach that does justice to the listed building next door.",
+    "projects.velperweg.d1": "Front view with new building volume (render)",
+    "projects.velperweg.d2": "Aerial view of the new building next to the listed property (render)",
+    "projects.velperweg.d3": "Front facade detail (render)",
+    "projects.velperweg.d4": "Balcony with view into the living room (render)",
+    "projects.velperweg.metaTitle": "Velperweg 56b, Arnhem — PM|AD",
+    "projects.velperweg.metaDescription": "All images of Velperweg 56b: a new residential building with five apartments next to a listed property in Arnhem, commissioned by 026Vastgoed.",
 
     "projects.p1.title": "Villa Zonnehof",
     "projects.p1.desc": "Detached house with an open, light-filled floor plan and a direct relationship with the garden.",
