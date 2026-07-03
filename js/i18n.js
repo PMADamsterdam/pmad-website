@@ -182,6 +182,16 @@ const PMAD_I18N = {
     "projects.velperweg.metaTitle": "Velperweg 56b, Arnhem — PM|AD",
     "projects.velperweg.metaDescription": "Alle beelden van Velperweg 56b: nieuwbouw van een woongebouw met vijf appartementen naast een monumentaal pand in Arnhem, in opdracht van 026Vastgoed.",
 
+    "projects.beukenlaan.meta": "Transformatie & optopping — in ontwikkeling",
+    "projects.beukenlaan.title": "Beukenlaan 01, Oosterbeek",
+    "projects.beukenlaan.desc": "In samenwerking met 026Vastgoed transformeren wij dit voormalige restaurant met woonhuis en extra appartement tot vier toekomstbestendige wooneenheden. Door uit te breiden op zowel de begane grond als de eerste verdieping ontstaat meer ruimte en buitenruimte, en door er een extra bouwlaag op te zetten is er voldoende ruimte voor alle woningen. Door het nauwe contact met de gemeente en omwonenden is het ontwerp nog in ontwikkeling; zodra hierover definitief uitsluitsel is, wordt dit bijgewerkt.",
+    "projects.beukenlaan.d1": "Achtergevel met nieuwe dakopbouw (render)",
+    "projects.beukenlaan.d2": "Detail achtergevel en terras (render)",
+    "projects.beukenlaan.d3": "Terras en tuin (render)",
+    "projects.beukenlaan.d4": "Interieur keuken en woonkamer (render)",
+    "projects.beukenlaan.metaTitle": "Beukenlaan 01, Oosterbeek — PM|AD",
+    "projects.beukenlaan.metaDescription": "Alle beelden van Beukenlaan 01: transformatie van een voormalig restaurant en woonhuis in Oosterbeek tot vier toekomstbestendige wooneenheden, in samenwerking met 026Vastgoed.",
+
     "projects.p1.title": "Villa Zonnehof",
     "projects.p1.desc": "Vrijstaande woning met een open, licht plattegrond en directe relatie met de tuin.",
     "projects.p2.title": "Kantoor De Werf",
@@ -417,6 +427,16 @@ const PMAD_I18N = {
     "projects.velperweg.d4": "Balcony with view into the living room (render)",
     "projects.velperweg.metaTitle": "Velperweg 56b, Arnhem — PM|AD",
     "projects.velperweg.metaDescription": "All images of Velperweg 56b: a new residential building with five apartments next to a listed property in Arnhem, commissioned by 026Vastgoed.",
+
+    "projects.beukenlaan.meta": "Transformation & rooftop extension — in development",
+    "projects.beukenlaan.title": "Beukenlaan 01, Oosterbeek",
+    "projects.beukenlaan.desc": "In collaboration with 026Vastgoed, we are transforming this former restaurant with an adjoining home and extra apartment into four future-proof residential units. Extending both the ground floor and first floor creates more living and outdoor space, and adding an extra storey provides enough room for all the homes. Because of close consultation with the municipality and local residents, the design is still evolving; once this is finalised, this page will be updated.",
+    "projects.beukenlaan.d1": "Rear facade with new rooftop extension (render)",
+    "projects.beukenlaan.d2": "Detail of rear facade and terrace (render)",
+    "projects.beukenlaan.d3": "Terrace and garden (render)",
+    "projects.beukenlaan.d4": "Kitchen and living room interior (render)",
+    "projects.beukenlaan.metaTitle": "Beukenlaan 01, Oosterbeek — PM|AD",
+    "projects.beukenlaan.metaDescription": "All images of Beukenlaan 01: transformation of a former restaurant and residence in Oosterbeek into four future-proof homes, in collaboration with 026Vastgoed.",
 
     "projects.p1.title": "Villa Zonnehof",
     "projects.p1.desc": "Detached house with an open, light-filled floor plan and a direct relationship with the garden.",
