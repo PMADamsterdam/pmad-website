@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="nl" data-i18n-title="contact.meta.title" data-i18n-desc="contact.meta.description">
+<head>
+<meta charset="UTF-8">
+<script>document.documentElement.classList.add('js');</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact — PM|AD</title>
+<meta name="description" content="Neem contact op met Pieter Mulder van PM|AD voor uw architectuurproject.">
+<link rel="canonical" href="https://pmad.nl/contact.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="PM|AD">
+<meta property="og:locale" content="nl_NL">
+<meta property="og:title" content="Contact — PM|AD">
+<meta property="og:description" content="Neem contact op met Pieter Mulder van PM|AD voor uw architectuurproject.">
+<meta property="og:url" content="https://pmad.nl/contact.html">
+<meta property="og:image" content="https://pmad.nl/images/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Contact — PM|AD">
+<meta name="twitter:description" content="Neem contact op met Pieter Mulder van PM|AD voor uw architectuurproject.">
+<meta name="twitter:image" content="https://pmad.nl/images/og-image.jpg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <a href="index.html" class="logo" aria-label="PM|AD — home"><img src="images/logo-zwart-wit.png" alt="PM|AD — Pieter Mulder Architecture &amp; Design" class="logo-img"></a>
+    <nav class="main-nav">
+      <a href="index.html" data-i18n="nav.home">Home</a>
+      <a href="over-mij.html" data-i18n="nav.about">Over mij</a>
+      <a href="projecten.html" data-i18n="nav.projects">Projecten</a>
+      <a href="partners.html" data-i18n="nav.partners">Partners</a>
+      <a href="contact.html" class="active" data-i18n="nav.contact">Contact</a>
+      <div class="lang-switch">
+        <select class="lang-select" aria-label="Language / Taal">
+          <option value="nl">NL</option>
+          <option value="en">EN</option>
+        </select>
+      </div>
+    </nav>
+    <button class="nav-toggle" aria-label="Menu openen" data-i18n-attr="aria-label:nav.menuLabel"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<main>
+
+  <section class="hero" style="padding-bottom: clamp(3rem, 8vw, 5rem);">
+    <div class="container">
+      <span class="eyebrow reveal" data-i18n="contact.hero.eyebrow">Contact</span>
+      <h1 class="reveal" style="max-width:18ch;" data-i18n="contact.hero.title">Laten we kennismaken.</h1>
+      <p class="lede reveal" style="max-width:52ch;" data-i18n="contact.hero.lede">Of het nu gaat om een concreet project of een eerste idee — ik denk graag vrijblijvend met u mee.</p>
+    </div>
+  </section>
+
+  <section style="padding-top:0;">
+    <div class="container contact-grid">
+
+      <div class="reveal contact-info">
+        <h2 style="font-size:1.6rem;" data-i18n="contact.info.title">Gegevens</h2>
+        <dl>
+          <dt data-i18n="contact.info.emailLabel">E-mail</dt>
+          <dd><a href="mailto:pm_ad@icloud.com">pm_ad@icloud.com</a></dd>
+
+          <dt data-i18n="contact.info.phoneLabel">Telefoon</dt>
+          <dd><a href="tel:+31653439697">+31 6 53 43 96 97</a></dd>
+
+          <dt data-i18n="contact.info.addressLabel">Adres</dt>
+          <dd>Joos Banckersweg 16-1<br>1056 EP Amsterdam</dd>
+
+          <dt data-i18n="contact.info.kvkLabel">KvK</dt>
+          <dd>95561129</dd>
+        </dl>
+      </div>
+
+      <div class="reveal">
+        <h2 style="font-size:1.6rem;" data-i18n="contact.form.title">Stuur een bericht</h2>
+        <form class="contact-form" action="https://formspree.io/f/xpqgowlw" method="POST">
+          <input type="hidden" name="_subject" value="Nieuw bericht via PM|AD website">
+          <div>
+            <label for="naam" data-i18n="contact.form.nameLabel">Naam</label>
+            <input type="text" id="naam" name="naam" required>
+          </div>
+          <div>
+            <label for="email" data-i18n="contact.form.emailLabel">E-mailadres</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          <div>
+            <label for="onderwerp" data-i18n="contact.form.subjectLabel">Onderwerp</label>
+            <input type="text" id="onderwerp" name="onderwerp" placeholder="Bijv. nieuwbouw, renovatie, interieur" data-i18n-attr="placeholder:contact.form.subjectPlaceholder">
+          </div>
+          <div>
+            <label for="bericht" data-i18n="contact.form.messageLabel">Bericht</label>
+            <textarea id="bericht" name="bericht" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary" style="justify-self:start;" data-i18n="contact.form.submit">Verstuur bericht</button>
+          <p class="form-status" role="status"></p>
+          <p class="form-note" data-i18n="contact.form.note">Uw gegevens worden alleen gebruikt om contact met u op te nemen over uw bericht.</p>
+        </form>
+      </div>
+
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <a href="index.html" class="logo"><img src="images/logo-zwart-wit.png" alt="PM|AD — Pieter Mulder Architecture &amp; Design" class="logo-img"></a>
+        <p data-i18n="footer.tagline">Pieter Mulder — Architecture &amp; Design</p>
+      </div>
+      <nav class="footer-nav">
+        <a href="index.html" data-i18n="nav.home">Home</a>
+        <a href="over-mij.html" data-i18n="nav.about">Over mij</a>
+        <a href="projecten.html" data-i18n="nav.projects">Projecten</a>
+        <a href="partners.html" data-i18n="nav.partners">Partners</a>
+        <a href="contact.html" data-i18n="nav.contact">Contact</a>
+      </nav>
+      <div class="footer-col">
+        <p><a href="mailto:pm_ad@icloud.com">pm_ad@icloud.com</a></p>
+        <p><a href="tel:+31653439697">+31 6 53 43 96 97</a></p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; <span data-year></span> <span data-i18n="footer.copyrightName">PM|AD — Pieter Mulder Architecture &amp; Design</span></span>
+      <span>KvK 95561129 · Amsterdam</span>
+      <a href="privacy.html" data-i18n="footer.privacyLink">Privacyverklaring</a>
+    </div>
+  </div>
+</footer>
+
+<script src="js/i18n.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
