@@ -570,6 +570,19 @@ section { padding: clamp(3.5rem, 8vw, 6rem) 0; }
   display: block;
 }
 
+.partner-logo .logo-img {
+  position: absolute;
+  inset: 0;
+  transition: opacity 0.3s ease;
+}
+
+.partner-logo .logo-img--gold { opacity: 0; }
+
+.partner-logo:hover .logo-img--gold,
+.partner-logo:focus-visible .logo-img--gold {
+  opacity: 1;
+}
+
 .partner-card h3 {
   font-family: var(--sans);
   font-size: 1.15rem;
