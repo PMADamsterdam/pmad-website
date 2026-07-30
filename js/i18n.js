@@ -50,6 +50,8 @@ const PMAD_I18N = {
     "home.hero.btnProjects": "Bekijk projecten",
     "home.hero.btnContact": "Neem contact op",
     "home.hero.imageAlt": "PM|AD — driedimensionaal wordmark",
+    "home.hero.carouselLabel": "Uitgelichte projecten",
+    "home.hero.dotsLabel": "Ga naar project",
 
     "home.intro.eyebrow": "Werkwijze",
     "home.intro.title": "Eén architect, direct betrokken bij elk project.",
@@ -296,6 +298,8 @@ const PMAD_I18N = {
     "home.hero.btnProjects": "View projects",
     "home.hero.btnContact": "Get in touch",
     "home.hero.imageAlt": "PM|AD — three-dimensional wordmark",
+    "home.hero.carouselLabel": "Featured projects",
+    "home.hero.dotsLabel": "Go to project",
 
     "home.intro.eyebrow": "Approach",
     "home.intro.title": "One architect, directly involved in every project.",
