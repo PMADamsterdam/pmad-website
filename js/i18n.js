@@ -219,6 +219,21 @@ const PMAD_I18N = {
     "concepts.hero.lede": "Een overzicht van initiatieven die zich nog in een pril stadium bevinden: nog niet zeker is of, en in welke vorm, ze doorgang vinden. Om die reden tonen we hier alleen de plaats, niet het exacte adres.",
     "concepts.note": "Binnenkort volgen hier de eerste concepten.",
 
+    "concepts.arnhem.meta": "Nieuwbouw — concept",
+    "concepts.arnhem.title": "Appartementengebouw, Arnhem",
+    "concepts.arnhem.desc": "Nieuwbouwproject in Arnhem met compacte appartementen van circa 40 m², ontsloten via een ruim centraal trappenhuis met een grote groene wand en plantenbakken. De gevel wordt uitgevoerd in terracotta baksteen met een ritmisch metselwerkpatroon; op de begane grond keren donkerrood geglazuurde tegels terug, die ook elders in het gebouw als accent worden toegepast.",
+    "concepts.arnhem.d1": "Voorgevel in terracotta baksteen (render)",
+    "concepts.arnhem.d2": "Trappenhuis met groene wand (render)",
+    "concepts.arnhem.d3": "Plint met donkerrood geglazuurde tegels (render)",
+    "concepts.arnhem.d4": "Trappenhuis met palmen in de groene wand (render)",
+
+    "concepts.arnhem2.meta": "Nieuwbouw — concept",
+    "concepts.arnhem2.title": "Nieuwbouw naast monumentaal pand, Arnhem",
+    "concepts.arnhem2.desc": "Nieuwbouwproject in Arnhem waarbij een nieuw volume wordt toegevoegd naast bestaande monumentale bebouwing. Het gebouw staat op een plint van terracotta tegels, een afwerking die doorloopt tot aan de achterzijde, waar ook het kelderappartement ermee wordt bekleed. De rest van de gevel is opgetrokken in een fraaie baksteen, waarbij de speklagen van het naastgelegen pand worden doorgezet in een baksteenprofilering. Het dak bestaat uit aluminium felsdakprofielen in een champagnekleur. Het geheel vormt een elegante nieuwbouw met appartementen van circa 75 m².",
+    "concepts.arnhem2.d1": "Voorgevel naast het monumentale buurpand (render)",
+    "concepts.arnhem2.d2": "Geveldetail: terracotta plint en baksteenprofilering (render)",
+    "concepts.arnhem2.d3": "Achterzijde met champagnekleurig felsdak (render)",
+
     "projects.cta.eyebrow": "Uw project",
     "projects.cta.title": "Benieuwd wat PM|AD voor u kan betekenen?",
     "projects.cta.text": "Elk project begint met een goed gesprek.",
@@ -482,6 +497,21 @@ const PMAD_I18N = {
     "concepts.hero.title": "Concepts in development.",
     "concepts.hero.lede": "An overview of initiatives still in an early stage: it isn't yet certain whether, or in what form, they will go ahead. For that reason we only show the town or city here, not the exact address.",
     "concepts.note": "The first concepts will be added here soon.",
+
+    "concepts.arnhem.meta": "New build — concept",
+    "concepts.arnhem.title": "Apartment building, Arnhem",
+    "concepts.arnhem.desc": "A new-build project in Arnhem with compact apartments of around 40 m², accessed via a generous central staircase with a large green wall and planters. The facade is built in terracotta brick in a rhythmic bonding pattern; the ground floor features dark red glazed tiles, which recur elsewhere in the building as accents.",
+    "concepts.arnhem.d1": "Front facade in terracotta brick (render)",
+    "concepts.arnhem.d2": "Staircase with green wall (render)",
+    "concepts.arnhem.d3": "Ground floor with dark red glazed tiles (render)",
+    "concepts.arnhem.d4": "Staircase with palms in the green wall (render)",
+
+    "concepts.arnhem2.meta": "New build — concept",
+    "concepts.arnhem2.title": "New build next to a listed building, Arnhem",
+    "concepts.arnhem2.desc": "A new-build project in Arnhem in which a new volume is added alongside an existing listed building. The building stands on a plinth of terracotta tiles, a finish that continues to the rear, where it also clads the basement apartment. The rest of the facade is built in a fine brick, with the string courses of the neighbouring building continued as a brick relief. The roof consists of aluminium standing-seam roofing in a champagne colour. Together it forms an elegant new-build with apartments of around 75 m².",
+    "concepts.arnhem2.d1": "Front facade next to the listed neighbouring building (render)",
+    "concepts.arnhem2.d2": "Facade detail: terracotta plinth and brick relief (render)",
+    "concepts.arnhem2.d3": "Rear facade with champagne-coloured standing-seam roof (render)",
 
     "projects.cta.eyebrow": "Your project",
     "projects.cta.title": "Wondering what PM|AD can do for you?",
