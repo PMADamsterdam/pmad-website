@@ -10,6 +10,7 @@ const PMAD_I18N = {
     "nav.home": "Home",
     "nav.about": "Over mij",
     "nav.projects": "Projecten",
+    "nav.concepts": "Concepten",
     "nav.partners": "Partners",
     "nav.contact": "Contact",
     "nav.menuLabel": "Menu openen",
@@ -211,6 +212,13 @@ const PMAD_I18N = {
 
     "projects.note": "Een selectie van recent afgeronde en lopende projecten. Meer projecten volgen binnenkort.",
 
+    "concepts.meta.title": "Concepten — PM|AD",
+    "concepts.meta.description": "Projecten van PM|AD — Pieter Mulder die zich nog in een pril stadium bevinden; nog niet zeker of definitief vastgesteld.",
+    "concepts.hero.eyebrow": "Concepten",
+    "concepts.hero.title": "Concepten in ontwikkeling.",
+    "concepts.hero.lede": "Een overzicht van initiatieven die zich nog in een pril stadium bevinden: nog niet zeker is of, en in welke vorm, ze doorgang vinden. Om die reden tonen we hier alleen de plaats, niet het exacte adres.",
+    "concepts.note": "Binnenkort volgen hier de eerste concepten.",
+
     "projects.cta.eyebrow": "Uw project",
     "projects.cta.title": "Benieuwd wat PM|AD voor u kan betekenen?",
     "projects.cta.text": "Elk project begint met een goed gesprek.",
@@ -223,6 +231,8 @@ const PMAD_I18N = {
     "partners.hero.lede": "PM|AD werkt op projectbasis samen met een klein aantal vaste partners. Hieronder vindt u wie dat zijn en waar de samenwerking uit bestaat.",
     "partners.026.name": "026Vastgoed",
     "partners.026.desc": "026Vastgoed is een vastgoedontwikkelaar uit de regio Arnhem, gericht op nieuwbouw en transformatie van woningen en bedrijfsruimtes. Voor 026Vastgoed werkt PM|AD aan transformatie- en verdichtingsprojecten, waaronder Villa Julianaweg in Oosterbeek.",
+    "partners.jps.name": "JPS.architecten",
+    "partners.jps.desc": "JPS.architecten is de Amsterdamse studio van Janpaul Scholtmeijer, met een minimalistische en theatrale signatuur en oog voor compositie, materiaal en licht — van architectuur en interieur tot styling. Pieter Mulder werkte hier 6,5 jaar en zet de samenwerking sindsdien op projectbasis voort.",
     "partners.note": "Binnenkort volgen hier meer samenwerkingen.",
     "common.visitWebsite": "Bezoek website",
 
@@ -264,6 +274,7 @@ const PMAD_I18N = {
     "nav.home": "Home",
     "nav.about": "About",
     "nav.projects": "Projects",
+    "nav.concepts": "Concepts",
     "nav.partners": "Partners",
     "nav.contact": "Contact",
     "nav.menuLabel": "Open menu",
@@ -465,6 +476,13 @@ const PMAD_I18N = {
 
     "projects.note": "A selection of recently completed and ongoing projects. More projects will follow soon.",
 
+    "concepts.meta.title": "Concepts — PM|AD",
+    "concepts.meta.description": "Projects by PM|AD — Pieter Mulder still in an early stage; not yet certain or finalised.",
+    "concepts.hero.eyebrow": "Concepts",
+    "concepts.hero.title": "Concepts in development.",
+    "concepts.hero.lede": "An overview of initiatives still in an early stage: it isn't yet certain whether, or in what form, they will go ahead. For that reason we only show the town or city here, not the exact address.",
+    "concepts.note": "The first concepts will be added here soon.",
+
     "projects.cta.eyebrow": "Your project",
     "projects.cta.title": "Wondering what PM|AD can do for you?",
     "projects.cta.text": "Every project starts with a good conversation.",
@@ -477,6 +495,8 @@ const PMAD_I18N = {
     "partners.hero.lede": "PM|AD works on a project basis with a small number of trusted partners. Below you'll find who they are and what the collaboration involves.",
     "partners.026.name": "026Vastgoed",
     "partners.026.desc": "026Vastgoed is a real estate developer based in the Arnhem region, focused on new construction and the transformation of homes and commercial spaces. For 026Vastgoed, PM|AD works on transformation and densification projects, including Villa Julianaweg in Oosterbeek.",
+    "partners.jps.name": "JPS.architecten",
+    "partners.jps.desc": "JPS.architecten is the Amsterdam studio of Janpaul Scholtmeijer, known for a minimalist, theatrical signature and an eye for composition, material and light — spanning architecture, interiors and styling. Pieter Mulder worked here for 6.5 years and has continued the collaboration on a project basis ever since.",
     "partners.note": "More collaborations will be added here soon.",
     "common.visitWebsite": "Visit website",
 
