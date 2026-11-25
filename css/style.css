@@ -671,6 +671,17 @@ section { padding: clamp(3.5rem, 8vw, 6rem) 0; }
   opacity: 1;
 }
 
+/* Full-tile logo variant (e.g. JPS Architecten): the artwork already includes
+   its own background, so it fills the card edge-to-edge without padding. */
+.partner-logo--tile img { padding: 0; }
+
+.partner-logo .logo-img--dark { opacity: 0; }
+
+.partner-logo:hover .logo-img--dark,
+.partner-logo:focus-visible .logo-img--dark {
+  opacity: 1;
+}
+
 .partner-card h3 {
   font-family: var(--sans);
   font-size: 1.15rem;
