@@ -49,6 +49,43 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // Klikbare miniaturen bij concepten (geen subpagina's): een klik op een
+  // kleine drawing-thumb wisselt de grote foto op dezelfde plek om, in
+  // plaats van naar een nieuwe pagina te gaan. Alleen van toepassing op
+  // project-cards waar de grote foto géén link is (zoals op concepten.html);
+  // op projecten.html is de grote foto een <a> naar de detailpagina en
+  // blijft dit gedrag ongemoeid.
+  document.querySelectorAll('.project-card').forEach((card) => {
+    const mainPhoto = card.querySelector('div.project-photo');
+    const mainImg = mainPhoto ? mainPhoto.querySelector('img') : null;
+    const thumbs = card.querySelectorAll('.drawing-thumb');
+    if (!mainImg || !thumbs.length) return;
+
+    thumbs.forEach((thumb) => {
+      const thumbImg = thumb.querySelector('img');
+      if (!thumbImg) return;
+
+      thumb.classList.add('drawing-thumb-clickable');
+      thumb.setAttribute('role', 'button');
+      thumb.setAttribute('tabindex', '0');
+
+      const show = () => {
+        mainImg.src = thumbImg.src;
+        mainImg.alt = thumbImg.alt;
+        thumbs.forEach((t) => t.classList.remove('is-active'));
+        thumb.classList.add('is-active');
+      };
+
+      thumb.addEventListener('click', show);
+      thumb.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          show();
+        }
+      });
+    });
+  });
+
   // Contactformulier — verstuurt via fetch() naar Formspree (form.action),
   // met succes-/foutmelding uit de i18n-woordenlijst.
   const form = document.querySelector('.contact-form');
