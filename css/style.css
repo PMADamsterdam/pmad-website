@@ -586,6 +586,14 @@ section { padding: clamp(3.5rem, 8vw, 6rem) 0; }
   .drawing-strip { grid-template-columns: repeat(2, 1fr); }
 }
 
+/* Klikbare miniatuur: toont de foto groot op de plek van de hoofdfoto (zie main.js) */
+.drawing-thumb-clickable { cursor: pointer; }
+.drawing-thumb-clickable:hover img,
+.drawing-thumb-clickable:focus-visible img { filter: grayscale(0); }
+.drawing-thumb-clickable:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.drawing-thumb-clickable.is-active { border-color: var(--ink); }
+.drawing-thumb-clickable.is-active img { filter: grayscale(0); }
+
 /* ---------- Project detail page (all images, stacked) ---------- */
 .back-link {
   display: flex;
