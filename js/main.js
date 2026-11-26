@@ -74,6 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
         mainImg.alt = thumbImg.alt;
         thumbs.forEach((t) => t.classList.remove('is-active'));
         thumb.classList.add('is-active');
+        mainPhoto.classList.add('is-selected');
       };
 
       thumb.addEventListener('click', show);
